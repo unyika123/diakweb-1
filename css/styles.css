@@ -5,19 +5,19 @@
 
 }
 body {
-    background: url('dg.png') #3f0202ef;
+    background: url('dg.png') #03c2b2ef;
     font-family: arial;
     font-size: 100%;
-    color: #ffffff;
+    color: #914040;
 
 }
 
 p{
-    color: #09440e;
+    color: #810505;
 }
 
 a {
-    color: #09440e;
+    color: #0a6c85;
 
 }
 div.clear{
@@ -33,7 +33,7 @@ header{
     font-size: 360%;
     font-weight: bold;
     font-family: "trecbuchet MS";
-    text-shadow: 2px 2px 2px #09440e;
+    text-shadow: 2px 2px 2px #2a1086;
     color: white;
 
 }
