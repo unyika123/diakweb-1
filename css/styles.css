@@ -4,18 +4,6 @@
     border: 0;
 
 }
-    div {
-        width: 300px;
-        height: 100px;
-        background-color: yellow;
-        border: 1px solid black;
-      }
-      
-      div#myDiv {
-        -ms-transform: rotate(20deg); /* IE 9 */
-        transform: rotate(20deg); /* Standard syntax */
-      }div
-
 body {
     background-image: url(../images/szabikaaa.jpg);
     font-family: arial;
@@ -45,7 +33,7 @@ header{
     font-size: 360%;
     font-weight: bold;
     font-family: "trecbuchet MS";
-    text-shadow: 2px 2px 2px #000000;
+    text-shadow: 2px 2px 2px #1c1b1f;
     color: white;
 
 }
